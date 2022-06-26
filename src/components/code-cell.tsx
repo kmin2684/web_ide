@@ -4,6 +4,7 @@ import Preview from "./preview";
 import bundle from "../bundler";
 
 const initialCode = `
+import 'bootstrap/dist/css/bootstrap.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
