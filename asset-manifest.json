@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-ide/static/css/main.9b4c64f8.css",
+    "main.js": "/web-ide/static/js/main.e9fb1ff8.js",
+    "index.html": "/web-ide/index.html",
+    "main.9b4c64f8.css.map": "/web-ide/static/css/main.9b4c64f8.css.map",
+    "main.e9fb1ff8.js.map": "/web-ide/static/js/main.e9fb1ff8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b4c64f8.css",
+    "static/js/main.e9fb1ff8.js"
+  ]
+}
